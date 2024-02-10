@@ -1,6 +1,7 @@
 import Topbar from "@/app/ui/ui-topbar";
 import Header from "@/app/ui/ui-header";
 import Stats from "@/app/ui/ui-stats";
+import Abouts from "@/app/ui/ui-abouts";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Topbar />
       <Header />
       <Stats />
+      <Abouts />
     </div>
   );
 }
