@@ -7,6 +7,7 @@ import Promotion from "@/app/ui/ui-promotion";
 import Videos from "@/app/ui/ui-videos";
 import Cta from "@/app/ui/ui-cta";
 import Contact from "@/app/ui/ui-contact";
+import News from "@/app/ui/ui-news";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Videos />
       <Cta />
       <Contact />
+      <News />
     </div>
   );
 }
