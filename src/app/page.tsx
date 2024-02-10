@@ -1,3 +1,9 @@
+import Topbar from "@/app/ui/ui-topbar";
+
 export default function Home() {
-  return <div></div>;
+  return (
+    <div>
+      <Topbar />
+    </div>
+  );
 }
