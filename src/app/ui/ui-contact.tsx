@@ -19,7 +19,7 @@ export default function Contact() {
                   type="text"
                   name="name"
                   id="name"
-                  className="w-full rounded border-0 bg-gray-300 bg-transparent px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
+                  className="w-full rounded border-0 bg-gray-300 px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
                   placeholder="Name"
                 />
               </div>
@@ -28,7 +28,7 @@ export default function Contact() {
                   type="text"
                   name="surname"
                   id="surname"
-                  className="w-full rounded border-0 bg-gray-300 bg-transparent px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
+                  className="w-full rounded border-0 bg-gray-300 px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
                   placeholder="Surname"
                 />
               </div>
@@ -37,7 +37,7 @@ export default function Contact() {
                   type="tel"
                   name="phone"
                   id="phone"
-                  className="w-full rounded border-0 bg-gray-300 bg-transparent px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
+                  className="w-full rounded border-0 bg-gray-300 px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
                   placeholder="Phone"
                 />
               </div>
@@ -46,7 +46,7 @@ export default function Contact() {
                   type="email"
                   name="email"
                   id="email"
-                  className="w-full rounded border-0 bg-gray-300 bg-transparent px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
+                  className="w-full rounded border-0 bg-gray-300 px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
                   placeholder="email"
                 />
               </div>
@@ -55,7 +55,7 @@ export default function Contact() {
                   type="text"
                   name="department"
                   id="department"
-                  className="w-full rounded border-0 bg-gray-300 bg-transparent px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
+                  className="w-full rounded border-0 bg-gray-300 px-4 py-3 font-medium text-gray-700 placeholder:font-semibold  placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
                   placeholder="Department"
                 />
               </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                 <textarea
                   name="mensaje"
                   id="mensaje"
-                  className="w-full rounded border-0 bg-gray-300 bg-transparent px-4 pb-16  pt-4 font-medium text-gray-700  placeholder:font-semibold placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
+                  className="w-full rounded border-0 bg-gray-300 px-4 pb-16  pt-4 font-medium text-gray-700  placeholder:font-semibold placeholder:text-gray-600 focus:outline-none focus:ring-0 sm:text-sm sm:leading-6"
                   placeholder="Mensaje"
                 />
               </div>
