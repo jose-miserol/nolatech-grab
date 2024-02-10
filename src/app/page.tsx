@@ -8,6 +8,7 @@ import Videos from "@/app/ui/ui-videos";
 import Cta from "@/app/ui/ui-cta";
 import Contact from "@/app/ui/ui-contact";
 import News from "@/app/ui/ui-news";
+import Footer from "@/app/ui/ui-footer";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <Cta />
       <Contact />
       <News />
+      <Footer />
     </div>
   );
 }
